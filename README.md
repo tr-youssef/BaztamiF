@@ -1,2 +1,0 @@
-# BaztamiF
-Created with CodeSandbox
